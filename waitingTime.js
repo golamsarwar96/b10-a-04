@@ -19,10 +19,3 @@ function waitingTime(waitingTimes, serialNumber){
     return waitingTime;
 
 }
-
-
-let arr = [6];
-let serial = 4;
-
-let result = waitingTime(arr,serial);
-console.log(result);

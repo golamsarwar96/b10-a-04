@@ -15,15 +15,3 @@ function calculateFinalScore(obj){
     
     return false;
 }
-
-
-
-let info = {
-    name: 'John Doe',
-    testScore: 15,
-    schoolGrade: 25,
-    isFFamily : false
-}
-
-let result = calculateFinalScore(info);
-console.log(result);
